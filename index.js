@@ -1,4 +1,6 @@
-/*Exercício 1 interpretação
+/*
+
+Exercício 1 interpretação
 
 1 - Leia o código abaixo. Indique todas as mensagens impressas no console, SEM EXECUTAR o programa.
 
@@ -104,6 +106,3 @@ console.log("O número", numero1, "é divisível por", numero2, "?", divisao )
 console.log("O número", numero2, "é divisível por", numero1, "?", divisao2 )
 
 */
-
-
-
